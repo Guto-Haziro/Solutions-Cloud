@@ -1,5 +1,7 @@
 # Foundation GCP
 
+![alt text](foundation.png)
+
 ## Objetivo
 O objetivo é proporcionar uma base sólida e confiável na GCP, garantindo um ambiente que atenda aos requisitos de segurança, performance e escalabilidade.
 
@@ -13,3 +15,5 @@ O provedor também será utilizado para armazenamento de backups de todos os wor
 * Projeto VPC Shared
 * Projeto Storage
 * Segregação de pastas Workloads, VPC e Storage
+
+_**Baixe o diagrama .drawio para ter uma visão detalhada da arquitetura**_
